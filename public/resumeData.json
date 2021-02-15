@@ -1,0 +1,389 @@
+{  
+  "main":{
+    "contact":{
+      "name":"Paul Pinho",
+      "occupation":"Full Stack Software Engineer",
+      "description":"Interactive Resume",
+      "image":"paul_pinho.png",
+      "bio":"I'm an all around web developer, full stack senior programmer with good knowledge of front-end techniques. I love structure and order, I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also, I like working on a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.",
+      "address":{
+        "city":"Bridgewater",
+        "state":"New Jersey"
+      },
+      "resumedownload":"https://drive.google.com/uc?export=pdf&id=1TBH5DkZYQCqFU0QpVfWKvEQ439d5G0bc",
+      "projectRepo":"https://drive.google.com/uc?export=pdf&id=1H1NX0i1K9vDL3gfS565nRsh0B1rw1a8H",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/paul.pinho.1",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"google-plus",
+          "url":"http://googleplus.com",
+          "className":"fa fa-google-plus"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/pinhop07",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/pinhop07",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/pinhop07",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"skype",
+          "url":"http://skype.com",
+          "className":"fa fa-skype"
+        }
+      ]
+    },
+    "resume":{
+      "education":[
+        {
+          "school":"Rutgers University",
+          "degree":"Course - Rutgers Coding Bootcamp (course)",
+          "graduated":"Oct 2017 - Apr 2018",
+          "description":"This course taught me a range of valuable skills and concepts that can be applied in several ways to many businesses and industries. The challenging curriculum covered a full-stack, including HTML5, CSS3, JavaScript, Java, jQuery, PHP, Node.js, Responsive Design, Heroku, Git, User Authentication, React.js, MySQL, and MongoDB.",
+          "location":"Somerset"
+        },
+        {
+          "school":"Kean University",
+          "degree":"Bachelor - Mathematical Sciences (Specialization: Pure Mathematics)",
+          "graduated":"Aug 2005 - Jun 2012",
+          "description":"The education was mainly Mathematics, but I also learned about Java-based programming, object oriented programming, SQL and more. During my time in college, I specialized in Pure Math. Here I learned about algorithms -the importance of how and why things work the way they do.",
+          "location":"Union"
+        },
+        {
+          "school":"Bridgewater-Raritan",
+          "degree":"Highschool",
+          "graduated":"Aug 2000 - Jun 2005",
+          "description":"I graduated high school, where I enjoyed doing science, math, biology and arts. I realized in my third year of school that I enjoyed solving complex problems and wanted to do something with mathematics. I also learned computer programming and started making small flash/actionscript applications.",
+          "location":"Bridgewater"
+        }
+      ],
+      "work":[
+        {
+          "company":"Optum Technology",
+          "title":"Software Engineer",
+          "years":"February 2021 – Current",
+          "description":"Followed my passion for building highly scalable API's by taking up a new role within Optum. I joined an initiative to modernize legacy API's and migrate them to Azure. Worked on building micro-services which powered our member portals and mobile applications.",
+          "location":"Basking Ridge"
+        },
+        {
+          "company":"Optum Technology",
+          "title":"Quality Engineer",
+          "years":"February 2018 – February 2021",
+          "description":"Transitioned from analyst to engineer. I began working with a quality tech stack which included Java, Selenium, and Cucumber. Developed Gherkin scripts to simulate the member healthcare enrollment process through various web portals. Stored data to create applications in a back-end MySQL database. Ran hundreds of parallel scripts, in a Jenkins CI/CD pipeline, hosted in a Docker container, and executed via Saucelabs.",
+          "location":"Basking Ridge"
+        },
+        {
+          "company":"Optum Technology",
+          "title":"Sr IT Quality Analyst",
+          "years":"Oct 2015 – February 2018",
+          "description":"As a senior employee, I took on more of a leadership role. I lead teams to meet deliverable due dates. In an effort to transition from Waterfall to Agile methodology, I also began working with test automation framework, such as Selenium and Cucumber.",
+          "location":"Basking Ridge"
+        },
+        {
+          "company":"Optum Technology",
+          "title":"Assc IT Systems Analyst",
+          "years":"Sep 2013 - Sep 2015",
+          "description":"Worked through several disciplines of the Claims Quality Assurance organization. On the Delivery team I work with business users, system analysts, designers and programmers to create and analyze various required project documents. While achieving my Green Belt certification, I developed an application that automated some of the redundant processes in Release Management. On the Consumer Centric Testing (CCT) team, I developed various Access databases to test large volumes of claims and assisted the analyst as a Subject Matter Expert on the Facets Application.",
+          "location":"Basking Ridge"
+        },
+        {
+          "company":"Optum Technology",
+          "title":"Contractor US Contingent",
+          "years":"Jun 2013 - Sep 2013",
+          "description":"Went through a comprehensive 3 month training program that included an overview of health care, corporate technology basics, software development and testing. Once training concluded I was placed in a role where I participate in production implementation verification and being accountable for validating system quality.",
+          "location":"Basking Ridge"
+        }
+      ],
+      "skills":[
+        {
+          "name":"Bootstrap",
+          "level":5
+        },
+        {
+          "name":"CSS(3)",
+          "level":5
+        },
+        {
+          "name":"HTML(5)",
+          "level":5
+        },
+        {
+          "name":"JSON",
+          "level":5
+        },
+        {
+          "name":"MySQL",
+          "level":5
+        },
+        {
+          "name":"Java",
+          "level":5
+        },
+        {
+          "name":"Javascript",
+          "level":5
+        },
+        {
+          "name":"JQuery",
+          "level":5
+        },
+        {
+          "name":"Node.js",
+          "level":5
+        },
+        {
+          "name":"Express",
+          "level":5
+        },
+        {
+          "name":"Handlebars",
+          "level":5
+        },
+        {
+          "name":"React.js",
+          "level":5
+        },
+        {
+          "name":"MongoDB",
+          "level":5
+        },
+        {
+          "name":"SQL (Oracle, Sybase)",
+          "level":5
+        },
+        {
+          "name":"XML",
+          "level":5
+        },
+        {
+          "name":"Maven",
+          "level":5
+        },
+        {
+          "name":"Gradle",
+          "level":5
+        },
+        {
+          "name":"Spring Framework",
+          "level":5
+        },
+        {
+          "name":"Selenium",
+          "level":5
+        },
+        {
+          "name":"Cucumber",
+          "level":5
+        },
+        {
+          "name":"Apache",
+          "level":4
+        },
+        {
+          "name":"AngularJS",
+          "level":4
+        },
+        {
+          "name":"Python",
+          "level":4
+        },
+        {
+          "name":".NET Framework",
+          "level":3
+        },
+        {
+          "name":"C#",
+          "level":3
+        },
+        {
+          "name":"Wordpress",
+          "level":2
+        },
+        {
+          "name":"PHP",
+          "level":2
+        },
+        {
+          "name":"Ruby",
+          "level":1
+        }
+      ],
+      "languages":[
+        {
+          "name":"Portuguese (Mother tongue)",
+          "level":5
+        },
+        {
+          "name":"English (Daily use)",
+          "level":5
+        },
+        {
+          "name":"Spanish (Survivable)",
+          "level":2
+        },
+        {
+          "name":"French (Un petit peu)",
+          "level":1
+        }
+      ],
+      "tools":[
+        {
+          "name":"Firefox",
+          "level":5
+        },
+        {
+          "name":"Google Chrome",
+          "level":5
+        },
+        {
+          "name":"nternet Explore 10+",
+          "level":5
+        },
+        {
+          "name":"Windows",
+          "level":5
+        },
+        {
+          "name":"MS Office",
+          "level":5
+        },
+        {
+          "name":"UltraEdit",
+          "level":5
+        },
+        {
+          "name":"Eclipse",
+          "level":5
+        },
+        {
+          "name":"Intellij",
+          "level":5
+        },
+        {
+          "name":"Visual Studio Code",
+          "level":5
+        },
+        {
+          "name":"Git / Git Flow",
+          "level":5
+        },
+        {
+          "name":"SharePoint",
+          "level":4
+        },
+        {
+          "name":"Mac",
+          "level":4
+        },
+        {
+          "name":"Azure",
+          "level":4
+        },
+        {
+          "name":"Amazon Web Services",
+          "level":4
+        },
+        {
+          "name":"OpenShift",
+          "level":4
+        },
+        {
+          "name":"Kubernetes",
+          "level":4
+        },
+        {
+          "name":"Saucelabs",
+          "level":4
+        },
+        {
+          "name":"Jenkins",
+          "level":4
+        },
+        {
+          "name":"Docker",
+          "level":3
+        },
+        {
+          "name":"Artifactory",
+          "level":3
+        },
+        {
+          "name":"Adobe Photoshop",
+          "level":3
+        },
+        {
+          "name":"Sketch",
+          "level":2
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Marvel Adventure",
+          "description":"Marvel Adventure, is a brief role play game set up in the Marvel Universe.",
+          "tags":"Development, Bootstrap, Javascrip, Python",
+          "image":"marvel-rpg.jpg",
+          "url":"https://marvel-adventure.appspot.com/"
+        },
+        {
+          "title":"Hangman",
+          "description":"Hangman game based on Marvel characters.",
+          "tags":"Development, Bootstrap, Javascript",
+          "image":"marvel-hangman.jpg",
+          "url":"https://pinhop07.github.io/marvel-hangman/"
+        },
+        {
+          "title":"Movie Search",
+          "description":"Marvel Theme Movie Search.",
+          "tags":"Development, Materialize, API's",
+          "image":"movie-search.jpg",
+          "url":"https://pinhop07.github.io/movie-search/"
+        },
+        {
+          "title":"Infinity War",
+          "description":"An online game specially for the Infinity Stones.",
+          "tags":"Development, Bootstrap, JQuery",
+          "image":"infinity-gauntlet.jpg",
+          "url":"https://pinhop07.github.io/infinity-war/"
+        }
+      ]
+    },
+    "quotes":{
+      "experienceSection":{
+        "quote":"Protons give an atom its identity, electrons its personality.",
+        "author":"Bill Bryson",
+        "source":"A short history of nearly everything"
+      },
+      "abilitySection":{
+        "quote":"Success belongs to those who believe in the power of their ideas.",
+        "author":"Michael Irwin"
+      },
+      "projectSection":{
+        "quote":"You can do anything you set your mind to.",
+        "author":"Benjamin Franklin"
+      },
+      "contactSection":{
+        "quote":"If I had asked people what they wanted, they would have said faster horses.",
+        "author":"Henry Ford"
+      }
+    }
+  }
+}
