@@ -19,19 +19,9 @@
           "className":"fa fa-facebook"
         },
         {
-          "name":"twitter",
-          "url":"http://twitter.com",
-          "className":"fa fa-twitter"
-        },
-        {
-          "name":"google-plus",
-          "url":"http://googleplus.com",
-          "className":"fa fa-google-plus"
-        },
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/ppinho87",
-          "className":"fa fa-linkedin"
+          "name":"github",
+          "url":"https://github.com/ppinho87",
+          "className":"fa fa-github"
         },
         {
           "name":"instagram",
@@ -39,14 +29,24 @@
           "className":"fa fa-instagram"
         },
         {
-          "name":"github",
-          "url":"https://github.com/ppinho87",
-          "className":"fa fa-github"
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/ppinho87",
+          "className":"fa fa-linkedin"
         },
         {
-          "name":"skype",
-          "url":"http://skype.com",
-          "className":"fa fa-skype"
+          "name":"reddit",
+          "url":"https://www.reddit.com/",
+          "className":"fa fa-reddit"
+        },
+        {
+          "name":"stack-overflow",
+          "url":"https://stackoverflow.com/",
+          "className":"fa fa-stack-overflow"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
         }
       ]
     },
@@ -348,21 +348,21 @@
           "description":"Hangman game based on Marvel characters.",
           "tags":"Development, Bootstrap, Javascript",
           "image":"marvel-hangman.jpg",
-          "url":"https://pinhop07.github.io/marvel-hangman/"
+          "url":"https://ppinho87.github.io/marvel-hangman/"
         },
         {
           "title":"Movie Search",
           "description":"Marvel Theme Movie Search.",
           "tags":"Development, Materialize, API's",
           "image":"movie-search.jpg",
-          "url":"https://pinhop07.github.io/movie-search/"
+          "url":"https://ppinho87.github.io/movie-search/"
         },
         {
           "title":"Infinity War",
           "description":"An online game specially for the Infinity Stones.",
           "tags":"Development, Bootstrap, JQuery",
           "image":"infinity-gauntlet.jpg",
-          "url":"https://pinhop07.github.io/infinity-war/"
+          "url":"https://ppinho87.github.io/infinity-war/"
         }
       ]
     },

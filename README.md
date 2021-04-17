@@ -1,5 +1,5 @@
 # Interactive-Resume
-This is my main portfolio site at the moment. It was made with Node.js, React, HTML, CSS, jQuery, PHP, and Bootstrap.
+This is my main portfolio site at the moment. It was made with HTML, CSS, jQuery, PHP, and Bootstrap.
 
 * The first thing the user will notice is the header I created with Spier-man in the background and a logo of my name I made with Google Fonts.
 
