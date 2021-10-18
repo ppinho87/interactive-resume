@@ -11,7 +11,7 @@
         "state":"New Jersey"
       },
       "resumedownload":"https://drive.google.com/uc?export=pdf&id=1TBH5DkZYQCqFU0QpVfWKvEQ439d5G0bc",
-      "projectRepo":"https://drive.google.com/uc?export=pdf&id=1H1NX0i1K9vDL3gfS565nRsh0B1rw1a8H",
+      "projectRepo":"https://github.com/ppinho87",
       "social":[
         {
           "name":"facebook",
@@ -140,6 +140,11 @@
           "name":"Javascript",
           "level":5
         },
+        
+        {
+          "name":"Kotlin",
+          "level":5
+        },
         {
           "name":"JQuery",
           "level":5
@@ -149,7 +154,7 @@
           "level":5
         },
         {
-          "name":"Express",
+          "name":"ExpressJS",
           "level":5
         },
         {
@@ -190,6 +195,10 @@
         },
         {
           "name":"Cucumber",
+          "level":5
+        },
+        {
+          "name":"Groovy",
           "level":5
         },
         {
@@ -253,7 +262,11 @@
           "level":5
         },
         {
-          "name":"nternet Explore 10+",
+          "name":"Internet Explore 10+",
+          "level":5
+        },
+        {
+          "name":"Mac",
           "level":5
         },
         {
@@ -284,12 +297,17 @@
           "name":"Git / Git Flow",
           "level":5
         },
+        
         {
-          "name":"SharePoint",
-          "level":4
+          "name":"Jenkins",
+          "level":54
         },
         {
-          "name":"Mac",
+          "name":"OpenShift",
+          "level":5
+        },
+        {
+          "name":"SharePoint",
           "level":4
         },
         {
@@ -301,19 +319,11 @@
           "level":4
         },
         {
-          "name":"OpenShift",
-          "level":4
-        },
-        {
           "name":"Kubernetes",
           "level":4
         },
         {
           "name":"Saucelabs",
-          "level":4
-        },
-        {
-          "name":"Jenkins",
           "level":4
         },
         {
