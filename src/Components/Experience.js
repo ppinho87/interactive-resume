@@ -6,6 +6,7 @@ class Experience extends Component {
       var quote = this.props.data.quotes.experienceSection.quote;
       var author = this.props.data.quotes.experienceSection.author;
       var source = this.props.data.quotes.experienceSection.source;
+      var thesis = this.props.data.contact.thesisdownload;
       
       var education = this.props.data.resume.education.map(function(education){
         return <div key={education.school} className="Experience row">
@@ -60,6 +61,11 @@ class Experience extends Component {
         <h3>Careers</h3>
         <div className="Experience">					
           {work}
+        </div>
+        <div className="text-center project-referal">
+          <a id="thesisDownload" href={thesis} className="btn btn-primary">
+              <i className="fa fa-download"></i>&nbsp;Download Thesis
+          </a>
         </div>
       </div>
     );
