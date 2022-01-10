@@ -10,7 +10,8 @@
         "city":"Bridgewater",
         "state":"New Jersey"
       },
-      "resumedownload":"https://drive.google.com/uc?export=pdf&id=1TBH5DkZYQCqFU0QpVfWKvEQ439d5G0bc",
+      "resumedownload":"https://drive.google.com/file/d/1RrMyLRVhcv8OKVGDUF5mR9UFKihz9l5i/view?usp=sharing",
+      "thesisdownload":"https://drive.google.com/file/d/1jzjt5GCPbOCN22aeKzUoPr_kCFCES_Us/view?usp=sharing",
       "projectRepo":"https://github.com/ppinho87",
       "social":[
         {
@@ -300,7 +301,7 @@
         
         {
           "name":"Jenkins",
-          "level":54
+          "level":5
         },
         {
           "name":"OpenShift",
@@ -351,7 +352,7 @@
           "description":"Marvel Adventure, is a brief role play game set up in the Marvel Universe.",
           "tags":"Development, Bootstrap, Javascrip, Python",
           "image":"marvel-rpg.jpg",
-          "url":"https://marveladventure.appspot.com/"
+          "url":"https://marvel-adventure.appspot.com/"
         },
         {
           "title":"Hangman",
