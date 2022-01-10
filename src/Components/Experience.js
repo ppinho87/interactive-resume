@@ -25,6 +25,11 @@ class Experience extends Component {
               </span>
             </p>
           </div>
+          <div className="text-center project-referal">
+            <a id="thesisDownload" href={thesis} className="btn btn-primary">
+                <i className="fa fa-download"></i>&nbsp;Download Thesis
+            </a>
+          </div>
         </div>
       })
       
@@ -61,11 +66,6 @@ class Experience extends Component {
         <h3>Careers</h3>
         <div className="Experience">					
           {work}
-        </div>
-        <div className="text-center project-referal">
-          <a id="thesisDownload" href={thesis} className="btn btn-primary">
-              <i className="fa fa-download"></i>&nbsp;Download Thesis
-          </a>
         </div>
       </div>
     );
