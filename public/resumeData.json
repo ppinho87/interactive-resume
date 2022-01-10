@@ -348,11 +348,11 @@
     "portfolio":{
       "projects": [
         {
-          "title":"Marvel Adventure",
-          "description":"Marvel Adventure, is a brief role play game set up in the Marvel Universe.",
-          "tags":"Development, Bootstrap, Javascrip, Python",
-          "image":"marvel-rpg.jpg",
-          "url":"https://marvel-adventure.appspot.com/"
+          "title":"Pokemon Battle Frontier",
+          "description":"Pokemon Battle Frontier, is a game in the model of Battle Ship.",
+          "tags":"Development, React.js, Javascrip, Python",
+          "image":"pokemon-battle-frontier.jpg",
+          "url":"http://pokemon-battle-frontier.herokuapp.com/"
         },
         {
           "title":"Hangman",
