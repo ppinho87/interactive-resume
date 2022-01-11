@@ -349,7 +349,7 @@
       "projects": [
         {
           "title":"Pokemon Battle Frontier",
-          "description":"Pokemon Battle Frontier, is a game in the model of Battle Ship.",
+          "description":"Pokemon game in the model of Battle Ship.",
           "tags":"Development, React.js, Javascrip, Python",
           "image":"pokemon-battle-frontier.jpg",
           "url":"http://pokemon-battle-frontier.herokuapp.com/"
